@@ -14,8 +14,8 @@ Four additional features have been added to the "basic" version of the app:
 
 Three additional features have been added to the version of the app from Assignment B-3: 
 * Feature 5: The "Product Type" side panel was changed to allow users to search for multiple entries simultaneously. For example, search for multiple alcohol types at once instead of wine/beer/etc, one at a time.
-* Feature 6: An option to sort Data Table by price was added to allow users to view the data from least expensive to most expensive
-* Feature 7: The download button was added to allow users to download the data table as a csv file for the purpose of data analysis or future use
+* Feature 6: An option to sort the Data Table by price was added to allow users to view the data from least expensive to most expensive
+* Feature 7: The "Download Results" button was added to allow users to download the Data Table as a csv file for the purpose of data analysis or future use
 
 ### Data Source
 The BC Liquor data set was retrieved from: https://github.com/daattali/shiny-server/blob/master/bcl/data/bcl-data.csv
