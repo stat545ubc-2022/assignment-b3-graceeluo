@@ -10,7 +10,7 @@ Four additional features have been added to the "basic" version of the app:
 * Feature 3: Tabs of Histogram and Data Table were added to improve organization of the app. 
 * Feature 4: Using the _DT_ package, the static table was turned into an interactive table to allow searching, paging and sorting abilities. 
 
-**Assignment B-4; Option C** - Shiny App was completed for Assignment B-4. Additional features were implemented to the Shiny App from Assignment B-3. The Shiny App can be accessed through the following link: https://graceeluo.shinyapps.io/assignment-b4-graceeluo/
+**Assignment B-4: Option C** - Shiny App was completed for Assignment B-4. Additional features were implemented to the Shiny App from Assignment B-3. The Shiny App can be accessed through the following link: https://graceeluo.shinyapps.io/assignment-b4-graceeluo/
 
 Three additional features have been added to the version of the app from Assignment B-3: 
 * Feature 5: The "Product Type" side panel was changed to allow users to search for multiple entries simultaneously. For example, search for multiple alcohol types at once instead of wine/beer/etc, one at a time.
